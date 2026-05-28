@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>sitios  Web</title>
+    <link rel="stylesheet" href="estyle.css">
+</head>
+<body>
+
+    <!-- ENCABEZADO -->
+    <header>
+        <div class="logo">LOGO</div>
+        <img src="des" alt="">
+
+        <nav>
+            <ul>
+                <li><a href="#"></a></li>
+                <li><a href="#">tips</a></li>
+                <li><a href="#">reflexion </a></li>
+                <li><a href="#">videos </a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- BANNER -->
+    <section class="banner">
+        <h1><img src="descarga (1).jpg"></h1>
+    </section>
+
+    <!-- CONTENIDO PRINCIPAL -->
+    <main>
+
+        <section class="contenido">
+
+            <!-- SECCIÓN 1 -->
+            <div class="card">
+                <img src="https://www.baojpsicologos.es/20-ideas-e-instrucciones-para-ser-feliz/" alt="">
+                <h2>tips </h2>
+                <p> </p>
+            </div>
+
+            <!-- seccion 2  -->
+            <div class="card">
+                <img src="https://www.baojpsicologos.es/20-ideas-e-instrucciones-para-ser-feliz/" alt="">
+                <h2>reflexion </h2>
+                <p></p>
+            </div>
+
+            <!-- SABÍAS QUÉ -->
+            <aside class="sidebar">
+                <h2>videos </h2>
+                <p></p>
+            </aside>
+
+        </section>
+
+        <!-- comentarios  -->
+        <section class="publicaciones">
+            <h2>comentarios</h2>
+            <p>Aquí puedes agregar tus comentarios  recientes.</p>
+        </section>
+
+    </main>
+
+    <!-- PIE DE PÁGINA -->
+    <footer>
+        <p>
+            Dirección | Aviso de Privacidad | Redes Sociales
+        </p>
+    </footer>
+
+</body>
+</html>
